@@ -3,7 +3,6 @@
 *Samantha Husack*
 
 ## Recursive Method: PseudoCode
-'''
 
 	Import Time Library
 	Open while loop: Continue Using Program
@@ -38,11 +37,8 @@
 			change while loop to stop running program.
 		else, restart program execution at n=input from user.
 
-'''
 
 ## Iterative Method : PseudoCode
-
-'''
 
 	Import Time Library
 	Open while loop: Continue Using Program
@@ -98,5 +94,3 @@
 
 		If next input is anything but “n”, restart program
 		If input is n : stop program execution.
-
-'''
