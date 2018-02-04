@@ -4,6 +4,7 @@
 
 ## Recursive Method: PseudoCode
 '''
+
 Import Time Library
 Open while loop: Continue Using Program
 
@@ -36,15 +37,18 @@ when all solutions found, ask for input from user to calculate another solution,
 	if == “n”, 
 		change while loop to stop running program.
 	else, restart program execution at n=input from user.
+	
 '''
 
 ## Iterative Method : PseudoCode
 
 '''
+
 Import Time Library
 Open while loop: Continue Using Program
 
 Create Object: Board
+	
 	Define initiate, using object and board_size
 		Start solution counter
 		Initiate board_size as N
@@ -94,4 +98,5 @@ Create Object: Board
 
 	If next input is anything but “n”, restart program
 	If input is n : stop program execution.
+	
 '''
