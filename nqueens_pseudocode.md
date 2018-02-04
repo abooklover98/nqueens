@@ -1,7 +1,5 @@
 
 # N-Queens Problem, PseudoCode
-*Samantha Husack*
-
 ## Recursive Method: PseudoCode
 
 	Import Time Library
