@@ -24,7 +24,7 @@ To find all possible solutions to this problem, a backtracking method is perform
 
 
 ### a) PseudoCode for Recursive and Iterative Methods
-*PseudoCode for both methods can be found in the file : https://github.com/booklover98/nqueens/nqueens_pseudocode.md
+*PseudoCode for both methods can be found in the file : https://github.com/booklover98/nqueens/blob/master/nqueens_pseudocode.md
 
 ### b) Programs and Comments
  * i) Recursive : recusive_2.py
