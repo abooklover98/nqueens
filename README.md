@@ -37,8 +37,8 @@ To find all possible solutions to this problem, a backtracking method is perform
 
 Method | Finding 1st Solution, N = 8 |Finding all solutions, N = 8 |Finding 1st Solution, N = 9 |Finding all solutions, N = 9 |
 ------------ |------------ |------------ |------------ |------------ |
-*Iterative* | 2.976 ms | 43.715 ms | 1.1823 ms | 101.3936 ms|
-*Recursivce* | 2.738 ms | 16.604 ms | 1.0993 ms | 89.4477 ms|
+*Iterative* | 2.976 ms | 27.663 ms | 1.1823 ms | 111.2372 ms|
+*Recursive* | 2.738 ms | 16.604 ms | 1.0993 ms | 089.4477 ms|
 
 ### e) Discussion on Reported Running Times
 
