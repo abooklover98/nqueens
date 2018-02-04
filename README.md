@@ -28,8 +28,8 @@ To find all possible solutions to this problem, a backtracking method is perform
 ### a) PseudoCode for Recursive and Iterative Methods
 
 ### b) Programs and Comments
-  i) Recursive : recusive_2.py
-  ii) Iterative : iterative_nqueens.py
+ * i) Recursive : recusive_2.py
+ * ii) Iterative : iterative_nqueens.py
 
 ### c) All Solutions for N=8 & N=9
 
