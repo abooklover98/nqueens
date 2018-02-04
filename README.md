@@ -41,4 +41,5 @@ Method | Finding 1st Solution, N = 8 |Finding all solutions, N = 8 |Finding 1st 
 *Recursive* | 2.738 ms | 16.604 ms | 1.0993 ms | 089.4477 ms|
 
 ### e) Discussion on Reported Running Times
-
+Within the confines of this assignment, we had to write and execute two programs, one using an iterative method, the second using a recusive method to solve the N-Queens Problem for a board of 8x8 and 9x9. Doing an analysis of the running times for both programs, we can see that depending on the size of the board, a different method might be better, or faster, at solving all solutions.
+For my iterative method solution, I used backtracking and looping to speed up the process, this allows for fast running time when working with smaller numbers, as can be seen by the results. Although not faster than the recusive method, it competes agressivly, with all solutions found on a 9x9 board, found within 25 ms of the recusive method. 
