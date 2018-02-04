@@ -1,24 +1,24 @@
 NQueens Problem with Solutions (recursively and iteratively)
 
-#Data Structures, SOFE2715U
-###Assignment #01
+# Data Structures, SOFE2715U
+### Assignment #01
 
-###Instructor: Dr. Shahryar Rahnamayan, PEng, SMIEEE
+### Instructor: Dr. Shahryar Rahnamayan, PEng, SMIEEE
 
-###Prepared by:
+### Prepared by:
 	Samantha Husack (100617713)
 
 
-###Due: Friday, February 9th 2018, before 11:59PM
+### Due: Friday, February 9th 2018, before 11:59PM
 
 
-##Problem Statement
+## Problem Statement
 	Solve N-Queen problem using:
 * An iterative method, and
 * A recursive method
 For N = 8 and N = 9
 
-##N-Queen Problem
+## N-Queen Problem
 The Queen’s puzzle is the problem of placing N chess queens on a NXN chessboard so that no two queens threaten each other. Thus, the solution requires that no two queens share the same row, column or diagonal.
 
 To find all possible solutions to this problem, a backtracking method is performed to calculate all possible solutions from all possible combinations. This method allows for every single solution to be found, although it is a very time-costing method. 
