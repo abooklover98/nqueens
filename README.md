@@ -24,20 +24,21 @@ To find all possible solutions to this problem, a backtracking method is perform
 
 
 ### a) PseudoCode for Recursive and Iterative Methods
-*PseudoCode for both methods can be found in the file : https://github.com/booklover98/nqueens/blob/master/nqueens_pseudocode.md
+*PseudoCode for both methods can be found in the file within repository: https://github.com/booklover98/nqueens/blob/master/nqueens_pseudocode.md
 
 ### b) Programs and Comments
  * i) Recursive : recusive_2.py
  * ii) Iterative : iterative_nqueens.py
 
 ### c) All Solutions for N=8 & N=9
-*Can be found for both methods, both N values in the file in repository : https://github.com/booklover98/nqueens/nqueens_solutions.md
+*Can be found for both methods, both N values in the file within repository: https://github.com/booklover98/nqueens/blob/master/nqueens_solutions.pdf
 
 ### d) Running-Time Comparison
 
 Method | Finding 1st Solution, N = 8 |Finding all solutions, N = 8 |Finding 1st Solution, N = 9 |Finding all solutions, N = 9 |
 ------------ |------------ |------------ |------------ |------------ |
-*Iterative* | 0.002976s | 0.043715s | 0.0011823s | 0.1013936s|
-*Recursivce* | 0.002738s | 0.016604s | 0.0010993s | 0.0894477s|
+*Iterative* | 2.976 ms | 43.715 ms | 1.1823 ms | 101.3936 ms|
+*Recursivce* | 2.738 ms | 16.604 ms | 1.0993 ms | 89.4477 ms|
 
-### e)
+### e) Discussion on Reported Running Times
+
