@@ -45,4 +45,6 @@ Within the confines of this assignment, we had to write and execute two programs
 
 For my iterative method solution, I used backtracking and looping to speed up the process, this allows for fast running time when working with smaller numbers, as can be seen by the results. Although not faster than the recusive method, it competes agressivly, with all solutions found on a 9x9 board, found within 25 ms of the recusive method. 
 
+In both the iterative and recusive methods, the time complexity comes to O(n!), since as the value of N increases, the number of times the algorithm will perform increases to n!. At small numbers such as N = 15, the execution time increases to over 600seconds, over 600X the time elapsed for N = 9.
+
 
